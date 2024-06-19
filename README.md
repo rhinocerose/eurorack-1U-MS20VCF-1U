@@ -2,9 +2,9 @@
 
  MS20 Filter made with Rene Schmitz's Design in Intellijel 1U format
 
-**<Note> This built has not been built or tested yet, use as reference only, and to your own risk.**
+**<Note> This built has not been tested yet, use as reference only, and to your own risk.**
 
-Rev.0.1 - Initial build
+## Rev.0.1 - Initial build
 
 |Process|Status|Time|
 |-------|------|----|
