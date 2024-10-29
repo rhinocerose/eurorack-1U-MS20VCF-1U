@@ -24,3 +24,10 @@ Issues:
 ## Rev 2.0 - I got too annoyed of the previous unstable designs, so now the module is based on the LMNC simple VCF designs
 
 Untested
+
+|Process|Status|Time|
+|-------|------|----|
+|PCB|Drawn|10/29/2024|
+|Fabrication||no date planned|
+|Build|||
+|Testing|||
