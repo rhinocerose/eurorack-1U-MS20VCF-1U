@@ -21,7 +21,7 @@ Issues:
 - One 4.7K Resistor isn't present (I forgot to put it on) but should not affect normal usage a lot... (I will be sure to add it in the next revision.) (nevermind it's fixed)
 
 
-## Rev 2.0 - I got too annoyed of the previous unstable designs, so now the module is based on the LMNC simple VCF designs
+## Rev 2.0 - I got too annoyed of the previous unstable designs, so now the module is based on the LMNC simple VCF design
 
 Untested
 
